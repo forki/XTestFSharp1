@@ -1,0 +1,23 @@
+type project
+owners
+    Costin Cozianu
+authors 
+    Costin Cozianu
+projectUrl
+    http://github.com/ccozianu/XtestFSharp1
+iconUrl
+    https://raw.githubusercontent.com/ccozianu/XtestFSharp1/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/ccozianu/XtestFSharp1/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Testing building with fsharp
+description
+    Description not set
+
+

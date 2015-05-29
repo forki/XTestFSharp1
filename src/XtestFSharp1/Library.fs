@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace XtestFSharp1
 
 /// Documentation for my library
 ///

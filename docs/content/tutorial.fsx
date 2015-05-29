@@ -10,8 +10,8 @@ Introducing your project
 Say more
 
 *)
-#r "FSharp.ProjectScaffold.dll"
-open FSharp.ProjectScaffold
+#r "XtestFSharp1.dll"
+open XtestFSharp1
 
 Library.hello 0
 (**
